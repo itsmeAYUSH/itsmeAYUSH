@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @itsmeAYUSH
-- 👀 I’m interested in coding, designing wireframes
-- 🌱 I’m currently learning UX designs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in python,web development, designing wireframes and lot more.
+- 🌱 I’m currently learning UX designs and python.
+- 💞️ I’m looking to collaborate on project related to designs and python.
+- 📫 can reach me on insta:ayushsagar05__________________ or main: ayushksagar14@gmail.com
 
 <!---
 itsmeAYUSH/itsmeAYUSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
