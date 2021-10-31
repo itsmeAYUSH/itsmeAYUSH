@@ -2,7 +2,7 @@
 - 👀 I’m interested in python,web development, designing wireframes and lot more.
 - 🌱 I’m currently learning UX designs and python.
 - 💞️ I’m looking to collaborate on project related to designs and python.
-- 📫 can reach me on insta:ayushsagar05__________________ or main: ayushksagar14@gmail.com
+- 📫 can reach me on insta: ayushsagar05__________________ or main: ayushksagar14@gmail.com
 
 <!---
 itsmeAYUSH/itsmeAYUSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
