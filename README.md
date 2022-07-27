@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ayush Sagar
+- 👋 Hi, I’m Ayush Sagar computer science graduate.
 - 👀 I’m interested in web development, designing, java and lot more.
-- 🌱 I’m currently learning java-script, data-structures and algorithms.
-- 💞️ I’m looking to collaborate on project related to designs and web programming.
-- 📫 can reach me on instagram: ayushsagar.o_c or mail: ayushksagar14@gmail.com
+- 🌱 I’m currently learning Java-script, data-structures and algorithms in Java.
+- 💞️ I’m looking to collaborate on project related to web programming/designs and DSA/Java questions.
+- 📫 can reach me on instagram: ayushsagar.0_x or mail: ayushksagar14@gmail.com
 
 <!---
 itsmeAYUSH/itsmeAYUSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
