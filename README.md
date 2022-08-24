@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, designing, java and lot more.
 - 🌱 I’m currently learning Java-script, data-structures and algorithms in Java.
 - 💞️ I’m looking to collaborate on project related to web programming/designs and DSA/Java questions.
-- 📫 can reach me on instagram: ayushsagar.0_x or mail: ayushksagar14@gmail.com
+- 📫 can reach me on instagram: https://www.instagram.com/ayushsagar.0_x/ or mail: ayushksagar14@gmail.com
 - 🧑‍💻 visit my Leetcode profile: https://leetcode.com/AyushSagar69/
 
 <!---
