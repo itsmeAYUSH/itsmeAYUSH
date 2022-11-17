@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayush Sagar</h1><img align="right" src="https://komarev.com/ghpvc/?username=itsmeAYUSH&style=flat-square&color=blueviolet">
-<h3 align="center">A passionate frontend developer from India</h3> 
+<h1 align="center">Hi 👋, I'm Ayush Sagar</h1> <img align="right" src="https://komarev.com/ghpvc/?username=itsmeAYUSH&style=flat-square&color=blueviolet">
+<h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" alt="coding" width="400" src="https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif">
 
 
