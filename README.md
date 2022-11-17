@@ -3,7 +3,7 @@
 <img align="center" alt="coding"  display: block
   margin-left: auto
   margin-right: auto
-  width: 80% src="https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif">
+  width: 60% src="https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif">
 <img align="right" src="https://komarev.com/ghpvc/?username=itsmeAYUSH&style=flat-square&color=blueviolet">
 
 - 🔭 I’m currently working on **web dev projects**
