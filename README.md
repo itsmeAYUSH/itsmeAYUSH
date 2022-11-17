@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Sagar</h1> 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="coding" width="80%" display="flex" src="https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif">
+<img align="center" alt="coding"  display: block
+  margin-left: auto
+  margin-right: auto
+  width: 80% src="https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif">
 <img align="right" src="https://komarev.com/ghpvc/?username=itsmeAYUSH&style=flat-square&color=blueviolet">
 
 - 🔭 I’m currently working on **web dev projects**
