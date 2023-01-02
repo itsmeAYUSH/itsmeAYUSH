@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **web dev projects**
 
-- 🌱 I’m currently learning **JavaScript , data structure and algorithms**
+- 🌱 I’m currently learning **JavaScript ,ReactJs,NodeJs and data structure and algorithms**
 
-- 💬 Ask me about **JavaScript,Java**
+- 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **ayushksagar14@gmail.com**
 
